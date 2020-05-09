@@ -1,0 +1,4 @@
+numpy==1.18.1
+mrcfile==1.1.2
+torch==1.4.0
+tensorboardX==2.0
